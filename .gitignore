@@ -1,0 +1,40 @@
+# Virtual Environment
+LPU/
+venv/
+env/
+.venv/
+
+# .gitignore
+.gitattributes
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite database files (if you add later)
+*.db
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build folders
+build/
+dist/
+*.egg-info/
